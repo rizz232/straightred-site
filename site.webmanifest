@@ -1,0 +1,19 @@
+{
+  "name": "StraightRed",
+  "short_name": "StraightRed",
+  "icons": [
+    {
+      "src": "footballforall-app-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone"
+}
