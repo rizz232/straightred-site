@@ -1,4 +1,4 @@
-# FootballForAll public site
+# StraightRed public site
 
-Free GitHub Pages website, legal pages and support contact for the
-FootballForAll desktop TikTok draft workflow.
+Public website, privacy policy, terms of service and support contact for the
+StraightRed desktop TikTok draft workflow.
